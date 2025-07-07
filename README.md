@@ -11,17 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology @ **Sri Ramakrishna Engineering College** (2027)
-- 🤖 Passionate about **AI, ML, LLMs, and automation**
-- 🧠 Working on:
-  - 🧾 **DataMatic Bot** – Auto ML model suggestion + code generator using LLaMA 3.2
-  - 💬 AI Chatbox with dataset understanding, model recommendation, & code generation
-  - 🚦 Smart traffic system with real-time camera analysis using Python & TomTom API
-- 🌱 Learning: **LLaMA 3.2**, **LangChain**, **Docker Sandbox Execution**, **Vector DBs**
-
----
 
 
 ### ⚽ Code Like a Champion
