@@ -23,6 +23,17 @@
 
 ---
 
+
+### ⚽ Code Like a Champion
+
+![Goal Committer](https://img.shields.io/badge/⚽_Goal%20Committer-Code%20Champion-green?style=for-the-badge)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="300" alt="Scoring Goal">
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 ```python
