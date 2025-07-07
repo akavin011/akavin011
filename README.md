@@ -6,21 +6,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+Developer+%7C+ML+Engineer+%7C+Tech+Entrepreneur" />
 </p>
 
-
-
-
 ---
 
+### 👨‍💻 About Me
 
-
-
-### ⚽ Code Like a Champion
-
-![Goal Committer](https://img.shields.io/badge/⚽_Goal%20Committer-Code%20Champion-green?style=for-the-badge)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3og0INyCmHlNylks9O/giphy.gif" width="300" alt="Scoring Goal">
-</p>
+- 🎓 B.Tech Information Technology @ **Sri Ramakrishna Engineering College** (2027)
+- 🤖 Passionate about **AI, ML, LLMs, and automation**
+- 🧠 Working on:
+  - 🧾 **DataMatic Bot** – Auto ML model suggestion + code generator using LLaMA 3.2
+  - 💬 AI Chatbox with dataset understanding, model recommendation, & code generation
+  - 🚦 Smart traffic system with real-time camera analysis using Python & TomTom API
+- 🌱 Learning: **LLaMA 3.2**, **LangChain**, **Docker Sandbox Execution**, **Vector DBs**
 
 ---
 
