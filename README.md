@@ -3,8 +3,9 @@
 <h3 align="center">AI Developer | Tech Entrepreneur | ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+ML+Engineer+%7C+Tech+Entrepreneur+%7C+Football+Player" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+Developer+%7C+ML+Engineer+%7C+Tech+Entrepreneur" />
 </p>
+
 
 
 
